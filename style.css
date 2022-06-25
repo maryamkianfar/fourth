@@ -1,0 +1,20 @@
+
+.border{
+	width: 90%;
+	border: 2px solid black;
+
+}
+.radius{
+	border-radius: 150em;
+}
+.icon{
+	height: 50px;
+	width: 50px;
+}
+.flexy{
+	display: flex;
+	width: 100%;
+}
+.what{
+	width: 33%
+}
